@@ -1,0 +1,1 @@
+R=((NOT(V) OR F) AND (V AND NOT(F))) OR NOT(V OR F)
